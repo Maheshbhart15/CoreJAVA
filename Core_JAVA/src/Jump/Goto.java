@@ -7,7 +7,7 @@ public class Goto {
 
                 if (x < 5) {
                     System.out.println("Before goto");
-            goto label;
+           // goto label;
             // Unconditional jump to the label
                     System.out.println("After goto"); // This code won't be executed
                 }
