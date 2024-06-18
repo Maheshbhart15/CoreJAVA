@@ -1,4 +1,6 @@
-package Encapsulation;
+package Encapsulation.Person1;
+
+import Encapsulation.Person1.PersonInfo;
 
 public class PersonInfoMain {
     public static void main(String[] args) {
