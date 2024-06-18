@@ -1,4 +1,4 @@
-package Encapsulation.Person1;
+package Encapsulation.Person;
 
 public class PersonInfo {
     // Step 1: Make the data private
